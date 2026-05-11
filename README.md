@@ -43,10 +43,6 @@ FoodieHub is a premium responsive food ordering website built using PHP, MySQL, 
 4. Import `database/foodiehub.sql` using phpMyAdmin or MySQL CLI.
 5. Open `http://localhost/foodiehub` in your browser.
 
-### Default accounts
-
-- Admin: `admin@foodiehub.com` / `admin123`
-- User: `jane@example.com` / `welcome123`
 
 ## Notes
 
