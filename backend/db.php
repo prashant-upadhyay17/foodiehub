@@ -7,7 +7,7 @@ $options = [
 ];
 
 try {
-    $pdo = new PDO($dsn, 'root', '', $options);
+    $pdo = new PDO($dsn, 'YOUR_DB_USER', 'YOUR_DB_PASSWORD', $options);
 } catch (PDOException $e) {
     http_response_code(500);
     echo 'Database connection failed: ' . htmlspecialchars($e->getMessage());
