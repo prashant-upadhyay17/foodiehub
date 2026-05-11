@@ -39,8 +39,8 @@ FoodieHub is a premium responsive food ordering website built using PHP, MySQL, 
 
 1. Copy the `foodiehub` folder into your XAMPP `htdocs` directory.
 2. Start Apache and MySQL from the XAMPP control panel.
-3. Create a new database named `foodiehub`.
-4. Import `database/foodiehub.sql` using phpMyAdmin or MySQL CLI.
+3. Create a new database named `db_name`.
+4. Import `database/db_name.sql` using phpMyAdmin or MySQL CLI.
 5. Open `http://localhost/foodiehub` in your browser.
 
 
